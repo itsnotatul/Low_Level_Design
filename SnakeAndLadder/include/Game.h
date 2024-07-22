@@ -14,8 +14,8 @@ private:
    Player* winner; 
    
 public:
-    Game();
-    ~Game();
+   Game();
+   ~Game();
    void initializeGame();
    void addPlayers();
    void startGame();
